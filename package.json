@@ -1,0 +1,26 @@
+{
+  "name": "modern-js-modules-tooling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syed18103392/Modern-JS-Modules-Tooling.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Syed18103392/Modern-JS-Modules-Tooling/issues"
+  },
+  "homepage": "https://github.com/Syed18103392/Modern-JS-Modules-Tooling#readme",
+  "dependencies": {
+    "leaflet": "^1.8.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.6.0"
+  }
+}
